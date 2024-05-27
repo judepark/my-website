@@ -1,0 +1,25 @@
+.header {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 1rem;
+    align-items: center;
+
+    p {
+        font-weight: 500;
+        line-height: 1.7;
+    }
+}
+
+section {
+    margin: 3rem 0;
+
+    .homeHeading {
+        align-items: center;
+        border: 0;
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 2rem;
+        margin-top: 2rem;
+        padding: 0;
+    }
+}

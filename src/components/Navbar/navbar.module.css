@@ -1,0 +1,45 @@
+nav, .navbar {
+    display: flex;
+    padding: 60px 0px 20px 0px;
+    .links {
+        display: inline-block;
+        text-align: left;
+    }
+}
+
+nav a, .navbar a {
+    display: inline-block;
+    margin-right: 20px;
+    font-weight: 600;
+    padding-bottom: 1px;
+    letter-spacing: 2px;
+    color: rgba(0, 0, 0, 0.65);
+}
+
+nav a:hover img, .navbar a:hover img {
+    transform: scale(1.1); /* Apply transform only to images on hover */
+    transition: transform 0.3s ease; /* Adjust transition duration as needed */
+
+}
+
+
+
+/* Add these styles for the images within links */
+nav a img, .navbar a img {
+    max-height: 2em; /* Adjust this value as needed */
+    vertical-align: middle; /* Align the image vertically with the text */
+    margin-right: 5px; /* Space between image and text */
+}
+
+
+/* Responsive design for smaller screens */
+@media (max-width: 420px) {
+    nav, .navbar {
+        font-size: 0.7em;
+
+    }
+
+    nav a, .navbar a {
+        margin-right: 10px;
+    }
+}

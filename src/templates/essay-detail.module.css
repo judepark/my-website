@@ -1,0 +1,68 @@
+.essayDetail {
+    
+    min-height: 100vh;
+
+    .content {
+        margin: 40px auto;
+    }
+    
+    h1 { 
+        font-size: 3rem;
+    }
+    h2 {
+        font-size: 2rem;
+        margin-top: 40px;
+    }
+    h6 {
+        margin-bottom: 4em;
+    }
+
+
+    p {
+        line-height: 1.8;
+        margin-bottom: 1.5rem;
+    }
+
+    a {
+        color: var(--font-color-alt);
+        text-decoration: underline;
+        text-decoration-thickness: 2px;
+    }
+
+    a:hover {
+        color: black;
+        background-color: var(--font-color-alt);
+        text-decoration: none;
+    }
+
+    a:hover:has(img) {
+        background-color: unset;
+    }
+
+    .technologyStackContainer {
+        margin: 1rem 0;
+    }
+
+    ul, ol {
+        padding: 1rem;
+    }
+
+    blockquote > p {
+        margin: 1em 0;
+        padding: 0 1em;
+        font-weight: 500;
+        color: var(--font-color-muted);
+        border-left: .25em solid var(--border-color-blockquote);
+      }
+}
+
+
+.datestamp {
+    .content {
+    }
+    
+    hr {
+        width: 5%;
+        overflow: visible;
+}
+}
