@@ -24,16 +24,14 @@ export default function About({ data }) {
                 <div className="column">
 					<h5>INTRO</h5>
 					<p>
-					I work on digital initiatives for governments.
+					I work on digital governments.
 					</p>
 				</div>
 
 				<div className="column">
 					<h5>LANGUAGES</h5>
 					<p>
-					Korean
-					<br/>
-					English
+					Korean, English
 					</p>
                 </div>
             </div>
@@ -42,32 +40,14 @@ export default function About({ data }) {
                 <div className="column">
 					<h5>WORK</h5>
 					<p>
-					<b>Senior Policy Advisor</b>
-					<br/>
-					Government of Canada
-					</p>
-
-					<p>
-					User Experience Design
-					<br/>
-					Data and Information Management
+					As a <b>Senior Policy Advisor</b> for the Government of Canada, I shape digital experiences with human-centered approaches to government services, ensuring our policies prioritize every Canadian and beyond. 
 					</p>
 				</div>
 
 				<div className="column">
 					<h5>EDUCATION</h5>
-		
 					<p>
-					<b>M.I. (Master of Information)</b>
-					<br/>
-					User Experience Design
-					<br/>
-					Information Systems Design
-					<br/>
-					</p>
-					
-					<p>
-					<b>B.A. (Bachelor of Arts)</b>
+					Leveraging 8+ years of practice since my <b>Master of Information (M.I.)</b>, I research, analyze, design, and solve complex data and design challenges. My <b>Bachelor of Arts (B.A.)</b> provided a solid liberal arts foundation.
 					</p>
 				</div>
             </div>
@@ -78,7 +58,15 @@ export default function About({ data }) {
 				/* Add when you have a link for:
 					<p>Public Policy's Role in Artificial Intelligence</p>
 					<p>Human-Centered Policy-to-Service Delivery in Digital Government</p>
+					<p>UX in Gov</p>
 					<p>Fair Design - What is Fair Access?</p>
+
+										
+					<p>
+					User Experience Design
+					<br/>
+					Data and Information Management
+					</p>
 				*/
 
 				>

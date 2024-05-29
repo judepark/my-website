@@ -13,19 +13,28 @@ export default function List({ listItems = [] }) {
 						key={item.id}
 						to={item.frontmatter.slug}
 					>
+
 						<p>
 							<b>{item.frontmatter.title}</b>
 							<br/>
-							{item.frontmatter.description}
-							<br/>
+							{item.frontmatter.type === 'work' && (
+							<>
+							{item.frontmatter.description && (
+								<span className={style.description} style={{ color: 'hsla(0, 0%, 0%, 0.65)' }}>
+								{item.frontmatter.description}
+								</span>
+							)}
+							</>
+							)}
 							{item.frontmatter.type === 'essay' && (
 								<h6>
-									<span className={style.date}>
-										{formatDateString(item.frontmatter.date)}
-									</span>
+								<span className={style.date}>
+								{formatDateString(item.frontmatter.date)}
+								</span>
 								</h6>
 							)}
 						</p>
+
 					</Link>
 				))}
 			</div>

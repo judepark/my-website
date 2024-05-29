@@ -6,7 +6,7 @@ stack: 'blank'
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  
-display: false
+display: true
 ---
 
 test

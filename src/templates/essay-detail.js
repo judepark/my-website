@@ -14,15 +14,15 @@ export default function essayDetails({ data }) {
 	return (
 		<Layout>
 			<section className={style.datestamp}>
-			<h6>{frontmatter.date}</h6>
-			<hr/>
+			<p><h6>{frontmatter.date}</h6>
+			<hr/></p>
 			</section>
 			
 			<div className={style.essayDetail}>
 				<section>
 					<div>
 						<h1 style={{fontWeight:'300'}}>{frontmatter.title}</h1>
-						<div className={style.technologyStackContainer}>
+						<p><div className={style.technologyStackContainer}>
 							{techStack.map((tech) => {
 								return (
 									<span key={`stack-${tech}`} className="tag">
@@ -30,7 +30,7 @@ export default function essayDetails({ data }) {
 									</span>
 								);
 							})}
-						</div>
+						</div></p>
 					</div>
 				</section>
 
