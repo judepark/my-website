@@ -8,6 +8,19 @@ import Layout from '../components/Layout';
 export default function Home({ data }) {
 	console.log(data);
 
+	// Function to handle mouseover event
+	const hovereffectover = (event) => {
+		event.target.style.transform = 'translateY(-5px)';
+		event.target.style.transition = 'transform 0.3s ease';
+	};
+	
+	// Function to handle mouseout event
+	const hovereffectout = (event) => {
+		event.target.style.transform = 'translateY(0)';
+		event.target.style.transition = 'none'; // Remove transition on mouseout
+	};
+
+
 	return (
 		<Layout>
 			<section className={style.header}>
@@ -22,6 +35,10 @@ export default function Home({ data }) {
 						href="mailto:jude@judepark.com"
 						target="_blank"
 						rel="noreferrer noopener"
+						onMouseOver={hovereffectover} // Apply hover effect on mouseover
+						onMouseOut={hovereffectout}   // Reset style on mouseout
+						onFocus = {hovereffectout}
+						OnBlur ={hovereffectout}
 					>
 						<img
 							className="social-mail"
@@ -34,6 +51,10 @@ export default function Home({ data }) {
 						href="https://www.linkedin.com/in/judepark"
 						target="_blank"
 						rel="noreferrer noopener"
+						onMouseOver={hovereffectover} // Apply hover effect on mouseover
+						onMouseOut={hovereffectout}   // Reset style on mouseout
+						onFocus = {hovereffectout}
+						OnBlur ={hovereffectout}
 					>
 						<img
 							className="social-icon"
@@ -46,6 +67,10 @@ export default function Home({ data }) {
 						href="https://github.com/judepark"
 						target="_blank"
 						rel="noreferrer noopener"
+						onMouseOver={hovereffectover} // Apply hover effect on mouseover
+						onMouseOut={hovereffectout}   // Reset style on mouseout
+						onFocus = {hovereffectout}
+						OnBlur ={hovereffectout}
 					>
 						<img
 							className="social-icon"

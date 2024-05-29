@@ -148,6 +148,14 @@ hr {
 }
 
 
+/* img */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
 /* container */
 .container {
     margin-left: auto;

@@ -16,19 +16,22 @@ nav a, .navbar a {
     color: rgba(0, 0, 0, 0.65);
 }
 
-nav a:hover img, .navbar a:hover img {
-    transform: scale(1.1); /* Apply transform only to images on hover */
-    transition: transform 0.3s ease; /* Adjust transition duration as needed */
+nav a:hover, .navbar a:hover {
 
 }
-
-
 
 /* Add these styles for the images within links */
 nav a img, .navbar a img {
     max-height: 2em; /* Adjust this value as needed */
     vertical-align: middle; /* Align the image vertically with the text */
     margin-right: 5px; /* Space between image and text */
+}
+
+/* This makes the logo expand in size when hover */
+nav a:hover img, .navbar a:hover img {
+    transform: scale(1.1); /* Apply transform only to images on hover */
+    transition: transform 0.3s ease; /* Adjust transition duration as needed */
+
 }
 
 

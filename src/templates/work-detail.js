@@ -17,7 +17,8 @@ export default function workDetails({ data }) {
 				<section>
 					<div>
 						<h2>{frontmatter.title}</h2>
-						<div className={style.technologyStackContainer}>
+						<p>{frontmatter.description}</p>
+						<p><div className={style.technologyStackContainer}>
 							{techStack.map((tech) => {
 								return (
 									<span key={`stack-${tech}`} className="tag">
@@ -25,7 +26,7 @@ export default function workDetails({ data }) {
 									</span>
 								);
 							})}
-						</div>
+						</div></p>
 					</div>
 
 				</section>

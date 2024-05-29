@@ -31,7 +31,7 @@
 }
 
 .listItem:hover {
-    transform: translateY(-5px); /* Move list item up by 10px on hover */
+    transform: translateY(-5px); /* Move list item up by 5px on hover */
 
     h3 {
         color: var(--font-color-base);
