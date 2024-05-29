@@ -6,7 +6,7 @@ stack: 'Procreate'
 description: 'Webcomic series about my daily ponder.'
 githubRepo: 'testr'
 type: "work"  
-display: true
+display: false
 ---
 
 
