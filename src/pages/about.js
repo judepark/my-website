@@ -46,8 +46,19 @@ export default function About({ data }) {
 
 				<div className="column">
 					<h5>EDUCATION</h5>
+
 					<p>
-					Leveraging 8+ years of practice since my <b>Master of Information (M.I.)</b>, I research, analyze, design, and solve complex data and design challenges. My <b>Bachelor of Arts (B.A.)</b> provided a solid liberal arts foundation.
+					<b>M.I. (Master of Information)</b>
+					<br/>
+					Information Systems Design
+					<br/>
+					User Experience Design
+					</p>
+
+					<p>
+					<b>B.A. (Bachelor of Arts)</b>
+					<br/>
+					Anthropology, History, Minor in Linguistics
 					</p>
 				</div>
             </div>
@@ -60,6 +71,10 @@ export default function About({ data }) {
 					<p>Human-Centered Policy-to-Service Delivery in Digital Government</p>
 					<p>UX in Gov</p>
 					<p>Fair Design - What is Fair Access?</p>
+
+					<p>
+					Leveraging 8+ years of practice since my <b>Master of Information (M.I.)</b>, I research, analyze, design, and solve complex data and design challenges. My <b>Bachelor of Arts (B.A.)</b> provided a solid liberal arts foundation.
+					</p>
 
 										
 					<p>

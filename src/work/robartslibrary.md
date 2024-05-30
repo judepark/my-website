@@ -1,9 +1,9 @@
 ---
-title: 'Hey Jude Comic'
-date: '2009'
-slug: '/work/heyjudecomic'
-stack: 'Procreate'
-description: 'Webcomic series about my daily ponder.'
+title: 'Robarts Library Kiosk Service'
+date: '2018'
+slug: '/work/robartslibrary'
+stack: 'InDesign'
+description: 'Kiosk stations service at University of Toronto's Robarts Library.'
 githubRepo: 'testr'
 type: "work"  
 display: true
