@@ -46,7 +46,7 @@
     --content-width: 700px;
     --font-family-base: "Product Sans";
     --font-color-base: hsla(0, 0%, 0%, 0.80);
-    --font-color-alt: #FFC100;
+    --font-color-alt: #FFCC00;
     --font-color-muted: #999;
     --background-color: #181818;
 
@@ -56,8 +56,8 @@
 
     --btn-background: #252525;
 
-    --color-yellow-muted: #FFC100;
-    --color-green-muted: #40CF8E;
+    --color-yellow-muted: #FFCC00;
+    --tag-color-base: rgba(0, 0, 0, 0.45);
 
 }
 
@@ -172,10 +172,11 @@ img {
 }
 
 .tag {
-    font-size: 12px;
-    font-weight: 600;
-    color: var(--color-green-muted);
-    border: 1px solid var(--color-green-muted);
+    font-size: 0.67em;
+    font-weight: 400;
+	letter-spacing: 0.5px;
+    color: var(--tag-color-base);
+    border: 1px solid var(--tag-color-base);
     padding: 3px 6px;
     margin-right: 5px;
     border-radius: 2px;
