@@ -11,6 +11,12 @@ export default function essayDetails({ data }) {
 
 	const techStack = frontmatter.stack.split(',');
 
+    // Function to modify HTML content to open links in new tab
+    const modifyHtmlContent = (content) => {
+        const modifiedContent = content.replace(/<a(.*?)>/g, '<a$1 target="_blank" rel="noopener noreferrer">');
+        return modifiedContent;
+    };
+
 	return (
 		<Layout>
 			<section className={style.datestamp}>
@@ -36,7 +42,7 @@ export default function essayDetails({ data }) {
 
 				<section
 					className={style.content}
-					dangerouslySetInnerHTML={{ __html: html }}
+					dangerouslySetInnerHTML={{ __html: modifyHtmlContent(html) }}
 				/>
 			</div>
 		</Layout>
