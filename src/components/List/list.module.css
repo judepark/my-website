@@ -13,6 +13,8 @@
 .listItem {
     background: transparent;
     display: flex;
+    flex-grow: 1; /* Allow items to grow */
+    flex-basis: 100%; /* Allow items to take full width */
     gap: 1rem;
     text-decoration: none;
     border-left: 1px solid hsla(0, 0%, 0%, 0.2);
@@ -60,3 +62,13 @@
     
 }
 
+/* Adjustments for smaller screens */
+@media screen and (max-width: 480px) {
+    .listContainer {
+        width: 100%; /* Ensures list container takes up the full width */
+    }
+
+    .listItem {
+        max-width: 100%; /* Ensures the list item takes up the full width */
+    }
+}

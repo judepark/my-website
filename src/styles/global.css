@@ -48,14 +48,14 @@
     --font-color-base: hsla(0, 0%, 0%, 0.65);
     --font-color-heading: hsla(0, 0%, 0%, 0.80);
     --font-color-alt: #FFCC00;
-    --font-color-muted: #999;
+    --font-color-muted: #8F8D94;
     --background-color: #181818;
 
-    --border-color: #2C2C2C;
+    --border-color: hsla(0, 0%, 0%, 0.80);
     --border-color-hover: #666;
-    --border-color-blockquote: #30363D;
+    --border-color-blockquote: #30343F;
 
-    --btn-background: #252525;
+    --btn-background: #FFCC00;
 
     --color-yellow-muted: #FFCC00;
     --tag-color-base: rgba(0, 0, 0, 0.45);
@@ -204,12 +204,17 @@ img {
 }
 
 /* Adjustments for smaller screens */
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 480px) {
     .column {
         max-width: 100%;
         flex: 0 0 100%; /* Ensures the column takes up the full width */
         margin: 0px 0px 50px 0px ;
     }
+
+    hr {
+        width: 100%; /* Ensures hr takes up the full width */
+    }
+
 }
 /* @media screen and (max-width: 700px) { } */
 

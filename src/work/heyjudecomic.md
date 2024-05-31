@@ -3,7 +3,7 @@ title: 'Hey Jude Comic'
 date: '2009'
 slug: '/work/heyjudecomic'
 stack: 'Creative Content, Sketch, Writing'
-description: 'Webcomic series about my daily ponder.'
+description: 'Webcomic series about my daily ponder'
 githubRepo: 'testr'
 type: "work"  
 display: true

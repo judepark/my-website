@@ -41,7 +41,6 @@ export const getwork = graphql`
 		allMarkdownRemark(
 			filter: { frontmatter: { display: { eq: true } } }
 			sort: { frontmatter: { date: DESC } }
-			limit: 10
 		) {
 			nodes {
 				frontmatter {
