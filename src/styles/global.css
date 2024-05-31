@@ -45,7 +45,8 @@
 :root {
     --content-width: 700px;
     --font-family-base: "Product Sans";
-    --font-color-base: hsla(0, 0%, 0%, 0.80);
+    --font-color-base: hsla(0, 0%, 0%, 0.65);
+    --font-color-heading: hsla(0, 0%, 0%, 0.80);
     --font-color-alt: #FFCC00;
     --font-color-muted: #999;
     --background-color: #181818;
@@ -91,27 +92,30 @@ p {
     margin: 16px auto;
     line-height: 1.6em;
     margin-bottom: 24px;
-    color: hsla(0, 0%, 0%, 0.65);
+    animation: fadeIn .8s ease-in-out; /* Apply the fadeIn animation */
+}
+
+ul, ol {
     animation: fadeIn .8s ease-in-out; /* Apply the fadeIn animation */
 }
 
 a {
     font-weight: 500;
   }
-  
-
 
 h1 {
     font-size: 3rem;
     font-family: "Nanum Myeongjo";
     font-weight: bold;
 	margin-bottom: 24px;
+    color: var(--font-color-heading); 
 }
 
 h2 {
     font-size: 2.25em;
 	margin-bottom: 24px;
 	line-height: 1.15;
+    color: var(--font-color-heading); 
 }
 
 h3 {
@@ -123,19 +127,17 @@ h4 {
 	font-size: 1.5em;
     font-weight: 400;
     margin-bottom: 1.45rem;
-	color: hsla(0, 0%, 0%, 0.70);
 }
 
 h5 /*Site Headings*/ {
 	margin-bottom: 1.45rem;
-    color: hsla(0, 0%, 0%, 0.65);
     letter-spacing: 2px;
+    color: var(--font-color-heading); 
 }
 
 h6 /*???*/ {
 	font-weight: 400;
 	letter-spacing: 0.5px;
-	color: rgba(0, 0, 0, 0.65);
 }
 
 

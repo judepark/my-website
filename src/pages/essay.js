@@ -41,7 +41,7 @@ export const getessay = graphql`
         allMarkdownRemark(
             filter: { frontmatter: { display: { eq: true } } }
             sort: { frontmatter: { date: DESC } }
-            limit: 6
+            limit: 10
         ) {
             nodes {
                 frontmatter {

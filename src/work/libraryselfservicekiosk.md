@@ -1,15 +1,15 @@
 ---
-title: 'Robarts Library Kiosk Service'
+title: 'Library Self-Service Kiosk'
 date: '2018'
-slug: '/work/robartslibrary'
+slug: '/work/librarykiosk'
 stack: 'Experience Map, Wireframe, User Interface'
-description: 'Transforming library kiosks for UofTʹs largest academic library.'
+description: 'Designing self-service kiosks for UofTʹs largest academic library.'
 githubRepo: 'testr'
 type: "work"  
 display: true
 ---
 
- [Design project](https://github.com/judepark/Robarts-Library-Kiosk-Service) with University of Toronto's John P. Robarts Research Library in the heart of Toronto to transform their [kiosk service](https://36gd76.axshare.com/home.html). 
+ [Design project](https://github.com/judepark/Robarts-Library-Kiosk-Service) to transform the [self-service kiosk](https://36gd76.axshare.com/home.html) stations for University of Toronto's John P. Robarts Research Library in the heart of Toronto . 
 
 ![A beautiful scenery](https://64.media.tumblr.com/50d50f011340527059d438e0d8e67fd0/tumblr_po0aqmIeKJ1taz7avo1_640.pnj)
 

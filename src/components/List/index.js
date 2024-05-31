@@ -15,7 +15,7 @@ export default function List({ listItems = [] }) {
 					>
 
 						<p>
-							<b>{item.frontmatter.title}</b>
+							<b style={{ color: 'hsla(0, 0%, 0%, 0.80)' }}>{item.frontmatter.title}</b>
 							<br/>
 							{item.frontmatter.type === 'work' && (
 							<>

@@ -1,12 +1,12 @@
 ---
-title: 'test'
-date: '2024-05-10'
-slug: '/essay/test'
+title: 'What is User Experience'
+date: '2017-07-26'
+slug: '/essay/user-experience'
 stack: 'blank, blank, blank'
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  
-display: false
+display: true
 ---
 
 test

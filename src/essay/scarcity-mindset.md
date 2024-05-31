@@ -1,12 +1,12 @@
 ---
 title: 'Scarcity Mindset'
-date: '2024-05-10'
+date: '2010-02-20'
 slug: '/essay/scarcity-mindset'
-stack: 'blank, blank, blank'
+stack: 'Human Behaviour'
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  
-display: false
+display: true
 ---
 
 test
