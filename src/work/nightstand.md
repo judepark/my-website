@@ -9,7 +9,7 @@ type: "work"
 display: true
 ---
 
-Briefly hosted a [radio show](https://soundcloud.com/judepark/theselfieofdoriangray) on Trent Radio (92.7 FM) exploring my favourite books from my nightstand.
+A [radio show](https://soundcloud.com/judepark/theselfieofdoriangray) on Trent Radio (92.7 FM) exploring works of literature (Books from Jude's nightstand).
 
 ![Nighstand radio show poster](https://64.media.tumblr.com/8a15dd1f0d9c0e4f5f5dfd94ce18ed78/899bcb1f25722cb4-12/s2048x3072/af983e735606703f739b39fd649802695c09436b.pnj)
 

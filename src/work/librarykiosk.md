@@ -1,5 +1,5 @@
 ---
-title: 'Library Self-Service Kiosk'
+title: 'Library Kiosks'
 date: '2018'
 slug: '/work/librarykiosk'
 stack: 'Experience Map, Wireframe, User Interface'
@@ -11,7 +11,7 @@ display: true
 
  [Design project](https://github.com/judepark/Robarts-Library-Kiosk-Service) to transform the [self-service kiosk](https://36gd76.axshare.com/home.html) stations for University of Toronto's John P. Robarts Research Library in the heart of Toronto . 
 
-![A beautiful scenery](https://64.media.tumblr.com/50d50f011340527059d438e0d8e67fd0/tumblr_po0aqmIeKJ1taz7avo1_640.pnj)
+![Experience Map of Robarts Library](https://64.media.tumblr.com/50d50f011340527059d438e0d8e67fd0/tumblr_po0aqmIeKJ1taz7avo1_640.pnj)
 
 <h6><div style="text-align: center;">
   Experience map to understand the complete experience of the user behaviour and journey.
@@ -38,6 +38,7 @@ The result: Increased user engagement, cost reduction, reduced staff dependency,
 <h6><div style="text-align: center;">
   Kiosks stations at Robarts Library 2018.
 </div></h6>
+
 <!-- 
 
 Creating the experience map and full-service UI for kiosk stations involved meticulous user behaviour research and analysis. We conducted over 20 user interviews, with 5$ starbucks cards as incentives (we would have done more if we had the budget) observations and task-based research that analyzed user needs, pinpointed pain points, and visualized their journey, offering vital insights for improvement. Personas and low-fidelity sketches were also developed. This project honed my user research and design skills, stressing the improtance of bridging digital design with real-world user interactions to transform the service for over 18,000 patrons who visit the libary every day. 

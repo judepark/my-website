@@ -17,5 +17,4 @@ display: true
   <img src="https://64.media.tumblr.com/fb903e168f06090c0d0dd4ae07ed9363/0ee66976eedcfd2f-57/s500x750/d577a2eb7c33cce446dd10ce3609cdd8200b8ada.pnj" alt="Backcover" style="width: 48%;"/>
 </div>
 <br/>
-<br/>
 
