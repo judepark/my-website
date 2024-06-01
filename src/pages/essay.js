@@ -21,7 +21,7 @@ export default function Essay({ data }) {
                     <h1>Essays</h1>
                     <div><hr/></div>
                     <p className={style.header}>
-                        Topics I am interested in.
+                        Areas of interest.
                     </p>
                 </div>
             </section>

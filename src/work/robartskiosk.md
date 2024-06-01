@@ -1,9 +1,9 @@
 ---
-title: 'Library Kiosks'
+title: 'Robarts Kiosks'
 date: '2018'
-slug: '/work/librarykiosk'
+slug: '/work/robartskiosk'
 stack: 'Experience Map, Wireframe, User Interface'
-description: 'Designing self-service kiosks for UofTʹs largest academic library'
+description: 'Design project for self-service kiosks at UofTʹs largest academic library'
 githubRepo: 'testr'
 type: "work"  
 display: true
@@ -17,14 +17,16 @@ display: true
   Experience map to understand the complete experience of the user behaviour and journey.
 </div></h6>
 <br/>
+<br/>
 
 Creating the experience map and full-service UI for kiosk stations involved meticulous user research and analysis. We conducted over 20 user interviews, observations and task-based research that analyzed user needs, pinpointed pain points, and visualized their journey, offering vital insights for improvement. Personas and low-fidelity sketches were also developed. 
 
-![A beautiful scenery](https://64.media.tumblr.com/9e48979b2ca56c308fe2c773259f45cb/tumblr_po0atjzeVK1taz7avo1_640.pnj)
+![Wireframe storyboard](https://64.media.tumblr.com/9e48979b2ca56c308fe2c773259f45cb/tumblr_po0atjzeVK1taz7avo1_640.pnj)
 
 <h6><div style="text-align: center;">
   Wireframe Storyboard of Kiosk UI involving library floor plans.
 </div></h6>
+<br/>
 <br/>
 
 The result: Increased user engagement, cost reduction, reduced staff dependency, and improved navigation. The kiosk stations optimized the journey from entry to exit, elevating the way-finding experience in the library for over 18,000 daily visitors.

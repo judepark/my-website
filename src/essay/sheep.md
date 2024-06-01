@@ -6,7 +6,7 @@ stack: 'Creative Writing'
 description: 'blank'
 githubRepo: 'blank'
 type: "essay"  
-display: true
+display: false
 ---
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

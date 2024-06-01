@@ -1,7 +1,7 @@
 ---
-title: 'Guide to Caretaking'
+title: 'Being a Good Son'
 date: '2021-03-15'
-slug: '/essay/guide-to-caretaking'
+slug: '/essay/being-a-good-son'
 stack: 'blank, blank, blank'
 description: 'test test.'
 githubRepo: 'test'

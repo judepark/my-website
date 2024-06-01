@@ -1,13 +1,16 @@
 ---
-title: 'Lumii'
-date: '2017'
-slug: '/work/lumii'
-stack: 'Sketch, Node.js, Docker, Swift, AWS'
-description: 'AI chatbot developed by RBC to bridge the gaps in the future of work.'
+title: 'Digital Competencies'
+date: '2023-12-6'
+slug: '/work/digital-competencies'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, 🍁'
+description: ''
 githubRepo: 'testr'
 type: "work"  
 display: true
 ---
+
+National Digital Trust Service
+
 
 Tasked to develop an [AI solution](
 https://github.com/judepark/lumii-webpage) that helps prepare youth for the future of work.

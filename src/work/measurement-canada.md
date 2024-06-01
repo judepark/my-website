@@ -1,9 +1,9 @@
 ---
-title: 'Lumii'
-date: '2017'
-slug: '/work/lumii'
-stack: 'Sketch, Node.js, Docker, Swift, AWS'
-description: 'AI chatbot developed by RBC to bridge the gaps in the future of work.'
+title: 'Measurement Canada'
+date: '2021-02-28'
+slug: '/work/measurement-canada'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, 🍁'
+description: ''
 githubRepo: 'testr'
 type: "work"  
 display: true
