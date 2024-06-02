@@ -1,9 +1,9 @@
 ---
-title: 'Human Resources UX'
-date: '2024-02-12'
-slug: '/work/human-resources-ux'
-stack: 'Sketch, Node.js, Docker, Swift, AWS, 🍁'
-description: ''
+title: 'Humanize Pay'
+date: '2024-06-01'
+slug: '/work/humanizepay'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, Government Projects, Public Services and Procurement Canada 🍁'
+description: 'Humanize the process of resolving pay-related issues for employees'
 githubRepo: 'testr'
 type: "work"  
 display: true

@@ -2,7 +2,7 @@
 title: 'Lumii'
 date: '2017'
 slug: '/work/lumii'
-stack: 'Sketch, Node.js, Docker, Swift, AWS'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, Other'
 description: 'AI chatbot developed by RBC to bridge the gaps in the future of work.'
 githubRepo: 'testr'
 type: "work"  

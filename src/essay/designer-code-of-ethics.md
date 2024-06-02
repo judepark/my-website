@@ -2,7 +2,7 @@
 title: 'A Designerˈs Code of Ethics'
 date: '2016-11-30'
 slug: '/essay/designer-code-of-ethics'
-stack: 'Manifesto'
+stack: 'Manifesto, Other'
 description: 'blank'
 githubRepo: 'blank'
 type: "essay"  

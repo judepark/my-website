@@ -1,9 +1,9 @@
 ---
 title: 'Research and Design Operations'
 date: '2023-09-14'
-slug: '/work/research-design-operations'
-stack: 'Sketch, Node.js, Docker, Swift, AWS, 🍁'
-description: ''
+slug: '/work/rdops'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, Government Projects, ESDC - Service Canada 🍁'
+description: 'R&D function for Service Canada to deliver digital services to Canadians'
 githubRepo: 'testr'
 type: "work"  
 display: true

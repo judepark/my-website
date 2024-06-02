@@ -1,9 +1,9 @@
 ---
-title: 'Digital Competencies'
+title: 'Digital Competencies in GC'
 date: '2023-12-6'
-slug: '/work/digital-competencies'
-stack: 'Sketch, Node.js, Docker, Swift, AWS, 🍁'
-description: ''
+slug: '/work/digitalcompetencies'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, Government Projects, ESDC - Service Canada 🍁'
+description: 'Standardization of digital competencies for the Government of Canada'
 githubRepo: 'testr'
 type: "work"  
 display: true

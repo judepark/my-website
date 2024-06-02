@@ -2,7 +2,7 @@
 title: 'UX in Gov'
 date: '2021-03-15'
 slug: '/essay/ux-in-gov'
-stack: 'blank, blank, blank'
+stack: 'blank, blank, blank, Government Projects'
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  

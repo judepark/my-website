@@ -1,9 +1,9 @@
 ---
-title: 'National Digital Trust Service'
-date: '2021-10-19'
-slug: '/work/digital-credentials'
-stack: 'Government Projects, Innovation Science and Economic Canada 🍁'
-description: 'Implementation project to introduce Canada to Digital IDs'
+title: 'Canada Digital Adoption Program'
+date: '2022-03-29'
+slug: '/work/cdap'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, Government Projects, Innovation, Science and Economic Canada 🍁'
+description: 'Grant program to promote digital adoption for Canadian businesses'
 githubRepo: 'testr'
 type: "work"  
 display: true
