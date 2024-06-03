@@ -1,8 +1,8 @@
 ---
-title: 'Humanize Pay'
+title: '🍁 Humanize Pay'
 date: '2024-06-01'
 slug: '/work/humanizepay'
-stack: 'Sketch, Node.js, Docker, Swift, AWS, Government Projects, Public Services and Procurement Canada 🍁'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, 🍁 Government Projects, Public Services and Procurement Canada'
 description: 'Humanize the process of resolving pay-related issues for employees'
 githubRepo: 'testr'
 type: "work"  

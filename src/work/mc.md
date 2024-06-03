@@ -1,8 +1,8 @@
 ---
-title: 'Serivce Standards for Measurement Canada'
+title: '🍁 MC Serivce Standards'
 date: '2021-02-28'
-slug: '/work/measurement-canada'
-stack: 'Government Projects, Measurement Canada 🍁'
+slug: '/work/mc'
+stack: '🍁 Government Projects, Measurement Canada'
 description: 'Digitization project for inspection of measured goods in Canada'
 githubRepo: 'testr'
 type: "work"  
@@ -13,6 +13,6 @@ Developed [digital tools](https://ised-isde.canada.ca/site/measurement-canada/en
 
 <br/>
 
-> Reach out to learn more about the project.
+> Contact me to learn more about the project.
 
 

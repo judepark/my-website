@@ -1,8 +1,8 @@
 ---
-title: 'UX Strategy'
+title: '🍁 UX Strategy'
 date: '2024-02-12'
 slug: '/work/uxstrategyhrb'
-stack: 'Sketch, Node.js, Docker, Swift, AWS, Government Projects, Public Services and Procurement Canada 🍁'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, 🍁 Government Projects, Public Services and Procurement Canada'
 description: 'Building UX strategy and capacity for the Human Resources Branch'
 githubRepo: 'testr'
 type: "work"  

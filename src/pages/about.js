@@ -40,7 +40,7 @@ export default function About({ data }) {
                 <div className="column">
 					<h5>WORK</h5>
 					<p>
-					As a <b>Senior Policy Advisor</b> for the Government of Canada, I shape digital experiences with human-centered approaches to government services. To ensure our policies prioritize the needs of every Canadians and beyond. 
+					As a <b>Senior Policy Advisor</b> for the Government of Canada, I shape digital experiences through human-centered design. To ensure our policies and government services prioritize the needs of every Canadian and beyond. 
 					</p>
 				</div>
 

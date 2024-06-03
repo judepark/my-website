@@ -1,8 +1,8 @@
 ---
-title: 'TC SecureScan'
+title: '🍁 TC SecureScan'
 date: '2020-11-30'
 slug: '/work/tcsecurescan'
-stack: 'Appian, Usability Analysis, Government Projects, Transport Canada 🍁'
+stack: 'Appian, Usability Analysis, 🍁 Government Projects, Transport Canada'
 description: 'Transformation project to digitize security screening'
 githubRepo: 'testr'
 type: "work"  

@@ -1,9 +1,9 @@
 ---
-title: 'National Digital Trust Service'
+title: '🍁 National Digital Trust Service'
 date: '2021-10-19'
-slug: '/work/digital-credentials'
-stack: 'Government Projects, Innovation Science and Economic Canada 🍁'
-description: 'Implementation project to introduce Canada to Digital IDs'
+slug: '/work/digitalcredentials'
+stack: '🍁 Government Projects, Innovation Science and Economic Canada'
+description: 'Implementation project to introduce Canada to digital credentials'
 githubRepo: 'testr'
 type: "work"  
 display: true

@@ -1,9 +1,9 @@
 ---
-title: 'Canada Digital Adoption Program'
+title: '🍁 Canada Digital Adoption Program'
 date: '2022-03-29'
 slug: '/work/cdap'
-stack: 'Sketch, Node.js, Docker, Swift, AWS, Government Projects, Innovation, Science and Economic Canada 🍁'
-description: 'Grant program to promote digital adoption for Canadian businesses'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, 🍁 Government Projects, Innovation, Science and Economic Canada'
+description: 'Grant program to promote Canadian businesse to digital adoption'
 githubRepo: 'testr'
 type: "work"  
 display: true

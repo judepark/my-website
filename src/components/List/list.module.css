@@ -62,8 +62,9 @@
     
 }
 
+/* Worktags */
 
-.tagstacks {
+.worktags {
     width: 200%;
     display: grid;
     grid-auto-flow: column;
@@ -76,12 +77,12 @@
     
 }
 
-.tagstacks button:not(:last-child)::after {
+.worktags button:not(:last-child)::after {
     content: "|"; /* Add the separator */
     margin-left: 15px; /* Adjust the spacing between the separator and the button */
 }
 
-.tagstacks button {
+.worktags button {
     color: rgba(0, 0, 0, 0.45);
 
 	letter-spacing: 0.5px;
@@ -93,13 +94,49 @@
     cursor: pointer; /* Change cursor to pointer to indicate clickable */
 }
 
-.tagstacks button:hover {
+.worktags button:hover {
 }
 
-.tagstacks button:active {
+.worktags button:active {
 }
 
+/* EssayTags */
 
+.essaytags {
+    width: 200%;
+    display: grid;
+    grid-auto-flow: column;
+    grid-gap: 12px;
+    justify-content: flex-start;
+    margin-top: 0px;
+    margin-bottom: -24px;
+    padding: 0px 0px 0px 0px;
+    
+    
+}
+
+.essaytags button:not(:last-child)::after {
+    content: "|"; /* Add the separator */
+    margin-left: 15px; /* Adjust the spacing between the separator and the button */
+}
+
+.essaytags button {
+    color: rgba(0, 0, 0, 0.45);
+
+	letter-spacing: 0.5px;
+    border: none; /* Remove border */
+    outline: none; /* Remove outline */
+    background-color: none;
+    background: none;
+    text-decoration: none; /* Remove default underline */
+    cursor: pointer; /* Change cursor to pointer to indicate clickable */
+}
+
+.essaytags button:hover {
+}
+
+.essaytags button:active {
+}
 
 /* Adjustments for smaller screens */
 @media screen and (max-width: 480px) {
@@ -114,6 +151,7 @@
 }
 
 
+
 .activeStack {
     /* Define styles for the active stack */
   }
@@ -125,6 +163,16 @@
   .exportedClass {
     /* Define styles for the exported class */
   }
+
+  .tag {
+    /* Define styles for the exported class */
+  }
+
+  .activeTag {
+    /* Define styles for the exported class */
+  }
+
+
   
   /* Exported classes */
   :export {

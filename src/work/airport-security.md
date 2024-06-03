@@ -1,8 +1,8 @@
 ---
-title: 'Transportation Security Clearance Program'
+title: '🍁 Transportation Security Clearance Program'
 date: '2020-03-30'
 slug: '/work/airport-security'
-stack: 'Usability Analysis, Government Projects, Transport Canada 🍁'
+stack: 'Usability Analysis, 🍁 Government Projects, Transport Canada'
 description: 'Transformation project to turn paper-based application to digital'
 githubRepo: 'testr'
 type: "work"  
