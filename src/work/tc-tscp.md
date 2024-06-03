@@ -1,7 +1,7 @@
 ---
 title: '🍁 Transportation Security Clearance Program'
 date: '2020-03-30'
-slug: '/work/airport-security'
+slug: '/work/tc-tscp'
 stack: 'Transport Canada, 🍁 Government Projects'
 description: 'Transformation project'
 githubRepo: 'testr'
@@ -13,4 +13,4 @@ As a pilot program, the [Transportation Security Clearance Program](https://tc.c
 
 <br/>
 
-> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted);;">me</a> to learn more about the project.
+> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted)">me</a> to learn more about the project.

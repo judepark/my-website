@@ -2,7 +2,7 @@
 title: 'Book of Revelations'
 date: '2009-12-29'
 slug: '/work/bookofrevelations'
-stack: 'Creative Writing, Other'
+stack: 'Creative Writing, Other, Jude'
 description: 'Digitally published collection of stories'
 githubRepo: 'testr'
 type: "work"  

@@ -1,7 +1,7 @@
 ---
 title: '🍁 Research and Design Operations'
 date: '2023-09-14'
-slug: '/work/rdops'
+slug: '/work/sc-rdops'
 stack: 'Employment and Social Development of Canada, Service Canada, 🍁 Government Projects'
 description: 'R&D function for Service Canada'
 githubRepo: 'testr'
@@ -21,4 +21,4 @@ Establishment and management of the Experience Design Chapter, a team of 14 UX r
 <br/>
 <br/>
 
-> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted);;">me</a> to learn more about the work.
+> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted)">me</a> to learn more about the work.

@@ -1,7 +1,7 @@
 ---
 title: '🍁 GC Digital Competencies'
 date: '2023-12-6'
-slug: '/work/digitalcompetencies'
+slug: '/work/sc-dc'
 stack: 'Employment and Social Development of Canada, 🍁 Government Projects'
 description: 'Standardization of digital competencies for all public servants'
 githubRepo: 'testr'
@@ -13,4 +13,4 @@ The GC Digital Competencies for all Public Servants initiative is part of the [d
 
 <br/>
 
-> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted);;">me</a> to learn more about the initiative.
+> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted)">me</a> to learn more about the initiative.

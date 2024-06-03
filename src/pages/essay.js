@@ -12,7 +12,7 @@ export default function Essay({ data }) {
     console.log(data);
 
     // Filter data based on the 'type' field
-    const essay = data.allMarkdownRemark.nodes.filter(node => node.frontmatter.type === 'essay');
+    const essay = data.allMarkdownRemark.nodes.filter(node => node.frontmatter.type === 'essay' && !node.frontmatter.stack.includes('Jude'));
 
     return (
         <Layout>

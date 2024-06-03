@@ -12,7 +12,7 @@ export default function Work({ data }) {
 	console.log(data);
 
     // Filter data based on the 'type' field
-    const work = data.allMarkdownRemark.nodes.filter(node => node.frontmatter.type === 'work');
+    const work = data.allMarkdownRemark.nodes.filter(node => node.frontmatter.type === 'work' && !node.frontmatter.stack.includes('Jude'));
 
 	return (
 		<Layout>

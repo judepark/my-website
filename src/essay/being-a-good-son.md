@@ -2,11 +2,11 @@
 title: 'Being a Good Son'
 date: '2021-03-15'
 slug: '/essay/being-a-good-son'
-stack: 'blank, blank, blank'
+stack: 'blank, blank, blank, Jude'
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  
-display: false
+display: true
 ---
 
 Healing from Your Family

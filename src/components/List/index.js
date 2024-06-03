@@ -7,7 +7,7 @@ export default function List({ listItems = [] }) {
     const [selectedEssayTag, setSelectedEssayTag] = useState('All');
 
     const workTags = ['All', '🍁 Government Projects', 'Other'];
-    const essayTags = ['All', 'Public Service', 'UX', 'Fun'];
+    const essayTags = ['All', 'UX', 'Fun'];
 
     const workPosts = listItems.filter(item => item.frontmatter.type === 'work');
     const essayPosts = listItems.filter(item => item.frontmatter.type === 'essay');

@@ -2,7 +2,7 @@
 title: 'JUDE Journal'
 date: '2013-09-29'
 slug: '/work/judejournal'
-stack: 'Creative Writing, Magazine, InDesign, Other'
+stack: 'Creative Writing, Magazine, InDesign, Other, Jude'
 description: 'Magazine layout and design'
 githubRepo: 'testr'
 type: "work"  

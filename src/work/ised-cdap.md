@@ -1,7 +1,7 @@
 ---
 title: '🍁 Canada Digital Adoption Program'
 date: '2022-03-29'
-slug: '/work/cdap'
+slug: '/work/ised-cdap'
 stack: 'Innovation Science and Economic Canada, 🍁 Government Projects'
 description: 'Grant program to promote digital adoption'
 githubRepo: 'testr'
@@ -13,4 +13,4 @@ The [Canada Digital Adoption Program](https://ised-isde.canada.ca/site/canada-di
 
 <br/>
 
-> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted);;">me</a> to learn more about the proof of concept.
+> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted)">me</a> to learn more about the proof of concept.
