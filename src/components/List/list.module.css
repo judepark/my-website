@@ -73,8 +73,6 @@
     margin-top: 0px;
     margin-bottom: -24px;
     padding: 0px 0px 0px 0px;
-    
-    
 }
 
 .worktags button:not(:last-child)::after {
@@ -111,8 +109,6 @@
     margin-top: 0px;
     margin-bottom: -24px;
     padding: 0px 0px 0px 0px;
-    
-    
 }
 
 .essaytags button:not(:last-child)::after {
@@ -151,24 +147,11 @@
 }
 
 
-
-.activeStack {
-    /* Define styles for the active stack */
-  }
-  
-  .stack {
-    /* Define styles for the stack */
-  }
-  
-  .exportedClass {
+.tag {
     /* Define styles for the exported class */
   }
 
-  .tag {
-    /* Define styles for the exported class */
-  }
-
-  .activeTag {
+.activeTag {
     /* Define styles for the exported class */
   }
 

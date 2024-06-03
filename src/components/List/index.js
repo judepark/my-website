@@ -7,7 +7,7 @@ export default function List({ listItems = [] }) {
     const [selectedEssayTag, setSelectedEssayTag] = useState('All');
 
     const workTags = ['All', '🍁 Government Projects', 'Other'];
-    const essayTags = ['All', 'professional', 'fun'];
+    const essayTags = ['All', 'Public Service', 'UX', 'Fun'];
 
     const workPosts = listItems.filter(item => item.frontmatter.type === 'work');
     const essayPosts = listItems.filter(item => item.frontmatter.type === 'essay');
@@ -23,7 +23,7 @@ export default function List({ listItems = [] }) {
     return (
         <div className={style.listContainer}>
             {workPosts.length > 0 && (
-                <div className={style.worktags}>
+                <p><div className={style.worktags}>
                     {workTags.map(stack => (
                         <button
                             key={stack}
@@ -33,11 +33,11 @@ export default function List({ listItems = [] }) {
                             {stack}
                         </button>
                     ))}
-                </div>
+                </div></p>
             )}
 
             {essayPosts.length > 0 && (
-                <div className={style.essaytags}>
+                <p><div className={style.essaytags}>
                     {essayTags.map(tag => (
                         <button
                             key={tag}
@@ -47,7 +47,7 @@ export default function List({ listItems = [] }) {
                             {tag}
                         </button>
                     ))}
-                </div>
+                </div></p>
             )}
 
             <div className={style.list}>

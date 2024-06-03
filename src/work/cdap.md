@@ -2,15 +2,15 @@
 title: '🍁 Canada Digital Adoption Program'
 date: '2022-03-29'
 slug: '/work/cdap'
-stack: 'Sketch, Node.js, Docker, Swift, AWS, 🍁 Government Projects, Innovation, Science and Economic Canada'
-description: 'Grant program to promote Canadian businesse to digital adoption'
+stack: 'Innovation Science and Economic Canada, 🍁 Government Projects'
+description: 'Grant program to promote digital adoption'
 githubRepo: 'testr'
 type: "work"  
 display: true
 ---
 
-The [National Digital Trust Proof of Concept](https://www.itworldcanada.com/article/atb-ventures-to-help-canadian-government-with-its-digital-id-efforts/473393#:~:text=Innovation%2C%20Science%20and%20Economic%20Development,issue%20and%20verify%20digital%20credentials) was the first national initiative to experiment with digital credentials technology to facilitate the transition to digital transactions. By leveraging emerging technologies like Verifiable Credentials, the project developed a centralized pilot service for select Canadian businesses and organizations to issue and verify digital documents to compete in the [global market](https://ised-isde.canada.ca/site/acts-regulations/en/forward-regulatory-plan/targeted-regulatory-review).
+The [Canada Digital Adoption Program](https://ised-isde.canada.ca/site/canada-digital-adoption-program/en) (CDAP) offered two grants to support businesses adopt technology for growth after COVID 19. The Boost Your Business Technology grant provided funding for digital adoption plans, interest-free loans, and skilled youth hiring, while the Grow Your Business Online grant aids in e-commerce setup with access to a network of advisors.
 
 <br/>
 
-> Reach out to learn more about the project.
+> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted);;">me</a> to learn more about the proof of concept.

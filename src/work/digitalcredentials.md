@@ -2,8 +2,8 @@
 title: '🍁 National Digital Trust Service'
 date: '2021-10-19'
 slug: '/work/digitalcredentials'
-stack: '🍁 Government Projects, Innovation Science and Economic Canada'
-description: 'Implementation project to introduce Canada to digital credentials'
+stack: 'Innovation Science and Economic Canada, 🍁 Government Projects'
+description: 'Introducing Canada to digital credentials'
 githubRepo: 'testr'
 type: "work"  
 display: true
@@ -13,4 +13,4 @@ The [National Digital Trust Proof of Concept](https://www.itworldcanada.com/arti
 
 <br/>
 
-> Reach out to learn more about the project.
+> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted);;">me</a> to learn more about the proof of concept.

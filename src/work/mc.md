@@ -2,8 +2,8 @@
 title: '🍁 MC Serivce Standards'
 date: '2021-02-28'
 slug: '/work/mc'
-stack: '🍁 Government Projects, Measurement Canada'
-description: 'Digitization project for inspection of measured goods in Canada'
+stack: 'Measurement Canada, 🍁 Government Projects'
+description: 'Digitization project'
 githubRepo: 'testr'
 type: "work"  
 display: true
@@ -13,6 +13,6 @@ Developed [digital tools](https://ised-isde.canada.ca/site/measurement-canada/en
 
 <br/>
 
-> Contact me to learn more about the project.
+> Contact <a href="mailto:jude@judepark.com" style="color: var(--font-color-muted);;">me</a> to learn more about the project.
 
 
