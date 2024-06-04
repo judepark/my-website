@@ -1,6 +1,6 @@
 ---
 title: 'Robarts Kiosks'
-date: '2018'
+date: '2018-12-18'
 slug: '/work/robartskiosk'
 stack: 'Experience Map, Wireframe, User Interface, Other'
 description: 'Design project for self-service kiosks at Torontoʹs largest academic library'

@@ -1,6 +1,6 @@
 ---
 title: 'Campus Minds'
-date: '2017'
+date: '2017-10-28'
 slug: '/work/campusminds'
 stack: 'User Research, Illustrator, Tableau, Other'
 description: 'Research project on post-secondary student mental health.'

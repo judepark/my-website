@@ -39,7 +39,7 @@ So we have a choice, to either continue on the road of rage being unhappy all th
 
 Perhaps my sister is right, and the people with less, who are aware they are with less, tends to be worse drivers. 
 
-But I hope to not be one of them when I drive. I would rather shift my definition of enough, than show my fangs. I would rather feel what I have is enough, than lash out on people who have more. 
+But I hope to not be one of them when I drive. I would rather shift my definition of enough, than show my fangs. I would rather accept what I have is enough, than lash out in the arena. 
 
 In my experience, people are rude wherever you go anyways. Almost as if it's not about what they have or do not have. They are operate in desperation, as if there is not enough.
 

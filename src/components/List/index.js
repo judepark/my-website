@@ -17,7 +17,7 @@ export default function List({ listItems = [] }) {
     );
 
     const filteredEssayPosts = essayPosts.filter(item => 
-        selectedEssayTag === 'All' || (item.frontmatter.tags && item.frontmatter.tags.includes(selectedEssayTag))
+        selectedEssayTag === 'All' || (item.frontmatter.stack && item.frontmatter.stack.includes(selectedEssayTag))
     );
 
     return (
