@@ -80,6 +80,14 @@
     margin-left: 15px; /* Adjust the spacing between the separator and the button */
 }
 
+.separator {
+    margin-left: 15px; /* Adjust the spacing */
+    pointer-events: none; /* Make the separator non-interactable */
+    user-select: none; /* Prevent text selection */
+    cursor: default; /* Ensure the cursor does not change */
+}
+
+
 .worktags button {
     color: rgba(0, 0, 0, 0.45);
 

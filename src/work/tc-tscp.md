@@ -2,7 +2,7 @@
 title: '🍁 Transportation Security Clearance Program'
 date: '2020-03-30'
 slug: '/work/tc-tscp'
-stack: 'Transport Canada, 🍁 Government Projects'
+stack: '🍁 Government Projects, Transport Canada'
 description: 'Transformation project'
 githubRepo: 'testr'
 type: "work"  

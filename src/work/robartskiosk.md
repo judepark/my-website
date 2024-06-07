@@ -29,7 +29,7 @@ Creating the experience map and full-service UI for kiosk stations involved meti
 <br/>
 <br/>
 
-The result: Increased user engagement, cost reduction, reduced staff dependency, and improved navigation. The kiosk stations optimized the journey from entry to exit, elevating the way-finding experience in the library for over 18,000 daily visitors.
+The result: Increased user engagement, cost reduction, reduced staff dependency, and improved navigation. The kiosk stations optimized the journey from entry to exit, elevating the information-finding experience in the library for over 18,000 daily visitors.
 
 <div style="display: flex; justify-content: center;">
   <img src="https://64.media.tumblr.com/c27532da294fe378d8762c48f0faaef7/6f174c3cd9dd762e-cf/s1280x1920/b1547efc2551db3c9464ec7479584341dcbe77fe.jpg" alt="Kiosk stations" style="width: 50%;">
@@ -38,7 +38,7 @@ The result: Increased user engagement, cost reduction, reduced staff dependency,
 <br/>
 
 <h6><div style="text-align: center;">
-  Kiosks stations at Robarts Library 2018.
+  Final product with kiosks stations at Robarts Library (2018).
 </div></h6>
 
 <!-- 

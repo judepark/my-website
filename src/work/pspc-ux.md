@@ -2,7 +2,7 @@
 title: '🍁 UX Strategy Plan'
 date: '2024-02-12'
 slug: '/work/pspc-ux'
-stack: 'Public Services and Procurement Canada, 🍁 Government Projects'
+stack: '🍁 Government Projects, Public Services and Procurement Canada'
 description: 'Departmental UX strategy and capacity building'
 githubRepo: 'testr'
 type: "work"  

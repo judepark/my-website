@@ -3,11 +3,11 @@ import { Link } from 'gatsby';
 import * as style from './list.module.css';
 
 export default function List({ listItems = [] }) {
-    const [selectedWorkTag, setSelectedWorkTag] = useState('All');
-    const [selectedEssayTag, setSelectedEssayTag] = useState('All');
+    const [selectedWorkTag, setSelectedWorkTag] = useState('🍁 Government Projects');
+    const [selectedEssayTag, setSelectedEssayTag] = useState('Digital Government');
 
     const workTags = ['All', '🍁 Government Projects', 'Other'];
-    const essayTags = ['All', 'UX', 'Fun'];
+    const essayTags = ['All', 'Digital Government', 'UX', 'Other'];
 
     const workPosts = listItems.filter(item => item.frontmatter.type === 'work');
     const essayPosts = listItems.filter(item => item.frontmatter.type === 'essay');

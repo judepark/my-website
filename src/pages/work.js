@@ -21,7 +21,7 @@ export default function Work({ data }) {
 					<h1>Work</h1>
 					<div><hr/></div>
 					<p className={style.header}>
-					Things I worked on.
+					What I worked on.
 					</p>
 				</div>
 			</section>

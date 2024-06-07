@@ -24,15 +24,20 @@
     }
 
     a {
-        color: var(--font-color-alt);
+        color: black;
         text-decoration: underline;
         text-decoration-thickness: 2px;
+        text-decoration-color: var(--font-color-alt);
+        display: inline-block; 
+        transition: transform .3s ease-in-out;
     }
 
     a:hover {
-        color: black;
-        background-color: var(--font-color-alt);
-        text-decoration: none;
+        transform: translateY(-5px);
+    }
+
+    a:not(:hover) {
+        transition: none;    
     }
 
     a:hover:has(img) {
@@ -44,15 +49,11 @@
     }
 
     ul, ol {
-        padding: 1rem;
+        
     }
 
     blockquote > p {
-        margin: 1em 0;
-        padding: 0 1em;
-        font-weight: 500;
-        color: var(--font-color-muted);
-        border-left: .25em solid var(--border-color-blockquote);
+
       }
 }
 

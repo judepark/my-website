@@ -1,8 +1,8 @@
 ---
 title: '🍁 GC Digital Competencies'
 date: '2023-12-6'
-slug: '/work/sc-dc'
-stack: 'Employment and Social Development of Canada, 🍁 Government Projects'
+slug: '/work/esdc-dc'
+stack: '🍁 Government Projects, Employment and Social Development of Canada'
 description: 'Standardization of digital competencies for all public servants'
 githubRepo: 'testr'
 type: "work"  

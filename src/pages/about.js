@@ -40,7 +40,7 @@ export default function About({ data }) {
                 <div className="column">
 					<h5>WORK</h5>
 					<p>
-					As a <b>Senior Policy Advisor</b> for the Government of Canada, I shape digital experiences through human-centered design. To ensure our policies and government services prioritize the needs of every Canadian and beyond. 
+					As a <b>Senior Policy Advisor</b> for the Government of Canada, I work on initiatives to ensure our policies prioritize the needs of Canadians and those who rely on our services. 
 					</p>
 				</div>
 
@@ -100,7 +100,7 @@ export default function About({ data }) {
 				*/
 
 				>
-					<h5>DOWNLOAD</h5>
+					<h5>LINKS</h5>
 
                 </div>
             </div>

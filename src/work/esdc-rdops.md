@@ -1,8 +1,8 @@
 ---
 title: '🍁 Research and Design Operations'
 date: '2023-09-14'
-slug: '/work/sc-rdops'
-stack: 'Employment and Social Development of Canada, Service Canada, 🍁 Government Projects'
+slug: '/work/esdc-rdops'
+stack: '🍁 Government Projects, Service Canada'
 description: 'R&D function for Service Canada'
 githubRepo: 'testr'
 type: "work"  

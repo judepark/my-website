@@ -1,8 +1,8 @@
 ---
-title: 'UX in Gov'
+title: 'Miseducation of UX in Public Service'
 date: '2021-03-15'
-slug: '/essay/ux-in-gov'
-stack: 'blank, blank, blank, Government Projects'
+slug: '/essay/miseducation-of-ux-in-public-service'
+stack: 'Digital Government, Public Service, UX' 
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  
@@ -122,3 +122,39 @@ Public opinion researchers need to create surveys that are easy for a wide range
 
 Conclusion
 The goals of user experience (UX) design and public opinion research may overlap, but there are crucial distinctions between the two. A key way to think about it is that UX design has a much more specific focus: just one person. It's easy for you to forget that by asking one question or making one decision, you can change the whole experience for someone using your product or service. In this case, too much information can be a bad thing. Just remember how we started this article: UX designers need to ask the right questions in order to make their products usable by as many people as possible.
+
+
+
+
+---
+
+
+### Misconceptions about UX in Gov
+
+Despite its importance, misconceptions about UX persist. Especially in public service. These are some [misconceptions](https://judepark.com/essay/ux-in-gov) about UX that I heard throughout my career:
+
+- "UX is just about making things look pretty."
+- "UX is only about the technology or the interface."
+- "UX is only relevant for the private sector."
+- "UX in government is only about improving websites and forms."
+- "Governments cannot prioritize UX due to budget constraints."
+- "UX should be the responsiblity of a sole designer."
+- "UX is a checkmark exercise"
+
+UX focuses on service, functionality, and the holistic experience; not merely about the visual aesthetics or the technology. Contrary to popular belief, UX isn't solely relevant to the private sector. It is arguably more critical in government where services are irreplaceable. UX should not be a checkmark exercise; it requires strategic investment and genuine expertise.
+
+- "UX is just about making things pretty" - it's not
+- "UX is only about the technology/interface" - it's not it's also about the experience before and after.
+- "UX is only relevant for private sector" - I would argue UX is actually less important for private companies where bad design means losing money and customers, who leave for another service vs government we are using taxpayers money and there is no alternatives for our services - people rely on us and when our services fail they have nowhere else to go. So I would argue UX is more important for governments than it will ever be for Apple or Facebook.
+- "UX is not necessary in government" - again that's not true
+- "UX in government is only about improving websites and forms" - this one kinda hurts me, because it's true UX in government isn't often being approached from a very strategic level. Typical UX teams focus on individual touchpoints like forms or websites, you'll find UX or service designers embedded in product teams but it rarely goes beyond that. I am hoping we can change this to avoid putting out bad services.
+- "Governments cannot prioritize UX due to budget constraints" - When people say this to me, I would say its more accurate to say people making the decisions don't have the necessary skillsets to successfully make it a priority, and so it's more likely they are feigning ignorance, and budget is a convenient excuse and scapegoat for the lack of ability.
+- "I want to be the one in charge of UX" - So in my very first role in government, I was interchange, and I was unknowingly stepping into a very toxic environment. A long time UX consultant who was already there, it got to a point where at a standup (this was before COVID), I asked him for clarification, and he lost control, slammed his fist on a table so hard that it broke, and he came up to me and shouted to everyone in the room "Do you know what my problem is? My problem is that I want the be the one in charge of UX". I tell this story because I'm not ganna lie, I was very affected by this. (everyone tried to hush me and prevented me from reporting anything, so I didn't). I took it more personally than I should have. But I ultimately came to a realization that UX is at a very immature stage in GC. So it's likely that you have someone who worked for decades alone in a "UX" role, and so collaboration and teamwork may be unfamiliar to them. So UX also suffers in that aspect where at the operating level because it’s at its infancy and there are so many leaders who ok it not knowing what the hell UX is, you can have situations where people feel they “own” UX in their organization, and you have to navigate around that. Scarcity Mindset.
+- "UX is a checkmark exercise" - I just wanna focus on UX is a checkmark exercise, cuz I'm writing a book on this.
+- My biggest beef with leaders, when it comes to UX, is their tendency to treat UX like a checkmark exercise. 
+- Because of the recent policies and sort of cultural shift for digital government in recent years, senior executives feel pressured to provide lip service to buzz words like "Accessibility, User Experience, Service Design and Delivery, Human-Centered Design, UX".. So now they will down on paper now, as a priority. It’s one thing having a policy, it’s whole another conversation having the people to carry out that policy. But fundamentally we lack the leaders who know how to successfully implement UX into the government structures and decades-old processes. So it often becomes a checkmark exercise of: Did we mention the UX in our briefings from the ministers? Check. Did we hire 1 person to oversee and ensure our entire 1000+ process is human-centered? Yup, check, we hired her. Did we do “user research” by talking to people? Yup, check, we talked to the people who are the most biased and who have the most on the line to ok everything and they were consulted. 
+- So my beef is not that we are not doing UX, my beef is that we are doing UX the wrong way - and the people are not openly acknowledging that they don't have the expertise. Like UX as a functioning discipline in the industry is like so young, most post secondary degrees weren't offering this shit widely until like 10 years ago.
+- So this leads to leaders and ministers in the Government of Canada who have a hard time grasping the size of time and quality of effort it takes to carry out this function - so way too often, we over-rely on existing employees, usually middle management and below, and we force them to wear too many different haps and functions and is being asked to conduct large-scale research way too quickly. We also have a serious talent problem in attracting and retaining skillsets in these disciplines, and our numbers speak for themselves when we look at how much we've spent on consulting agencies for this work over the years and how little we have to show for it. This is why we need a more strategic approach to UX in government.
+- Why is it that every department I go into there are like entry-level designers doing the work of a EX1?
+- I have been targeted in the past for bringing this up, that we don't have the skillsets and we don't have people in these roles with these skillsets, and it's unfair to ask for someone at this level to perform at that level,
+- Very likely that if and when conservatives take office, programs like UX, WAGE, DEI are all likely to be deprioritized in favor of other programs. 

@@ -149,6 +149,34 @@ hr {
     animation: none;
 }
 
+ul, ol {
+    margin: 0px 15px 24px 15px;
+    padding: 0 1rem;
+    line-height: 1.6em;
+}
+
+li {
+    margin: 10px 0;
+}
+
+li::marker {
+    color: var(--font-color-heading);
+  }
+
+blockquote {
+    margin: 0px 15px 24px 15px;
+    padding: 0 1em;
+    line-height: 1.6em;
+    font-style: italic;
+    word-spacing: 2px;
+    color: var(--font-color-base);
+    border-left: 1px solid hsla(0, 0%, 0%, 0.2);
+
+}
+
+blockquote a {
+    color: black !important;
+}
 
 /* img */
 img {

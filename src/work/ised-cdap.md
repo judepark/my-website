@@ -2,7 +2,7 @@
 title: '🍁 Canada Digital Adoption Program'
 date: '2022-03-29'
 slug: '/work/ised-cdap'
-stack: 'Innovation Science and Economic Canada, 🍁 Government Projects'
+stack: '🍁 Government Projects, Innovation Science and Economic Canada'
 description: 'Grant program to promote digital adoption'
 githubRepo: 'testr'
 type: "work"  

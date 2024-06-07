@@ -2,7 +2,7 @@
 title: '🍁 TC SecureScan'
 date: '2020-11-30'
 slug: '/work/tc-pgs'
-stack: 'Transport Canada, 🍁 Government Projects'
+stack: '🍁 Government Projects, Transport Canada'
 description: 'Digitization of security screening'
 githubRepo: 'testr'
 type: "work"  

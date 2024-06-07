@@ -2,11 +2,11 @@
 title: 'Three Talent Problem'
 date: '2021-03-15'
 slug: '/essay/three-talent-problem'
-stack: 'blank, blank, blank'
+stack: 'Digital Government, Public Service, UX'
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  
-display: false
+display: true
 ---
 
 Introduction

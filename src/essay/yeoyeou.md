@@ -2,7 +2,7 @@
 title: '여유'
 date: '2023-09-29'
 slug: '/essay/yeoyeou'
-stack: 'Human Behaviour, Other'
+stack: 'Other, Human Behaviour'
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  
