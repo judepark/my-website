@@ -25,7 +25,8 @@
     .disclaimer {
         display: inline-flex;
         width: 100%;
-        justify-content: center;
+        max-width: var(--content-width);
+        justify-content: left;
     
         p {
             margin-right: 1rem;
@@ -38,7 +39,7 @@ footer {
     display:inline-block;
     width: 100%;
     text-align: center;
-    margin: 1rem 0;;
+    margin: 3rem 0 1rem 0;
     font-size: 0.7rem;
 
     p, a {

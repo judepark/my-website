@@ -1,8 +1,8 @@
 ---
-title: 'Three Talent Problem'
+title: 'Three Talent Problem in Digital Gov'
 date: '2021-03-15'
 slug: '/essay/three-talent-problem'
-stack: 'Digital Government, Public Service, UX'
+stack: 'Digital Governance, Public Service, UX'
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  

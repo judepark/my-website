@@ -3,7 +3,7 @@ title: '🍁 Research and Design Operations'
 date: '2023-09-14'
 slug: '/work/esdc-rdops'
 stack: '🍁 Government Projects, Service Canada'
-description: 'R&D function for Service Canada'
+description: 'R&D for Service Canada.'
 githubRepo: 'testr'
 type: "work"  
 display: true

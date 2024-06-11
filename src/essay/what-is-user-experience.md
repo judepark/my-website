@@ -2,7 +2,7 @@
 title: 'What is User Experience?'
 date: '2017-07-26'
 slug: '/essay/what-is-user-experience'
-stack: 'Digital Government, Public Service, UX'
+stack: 'Digital Governance, Public Service, UX'
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  

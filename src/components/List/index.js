@@ -4,10 +4,10 @@ import * as style from './list.module.css';
 
 export default function List({ listItems = [] }) {
     const [selectedWorkTag, setSelectedWorkTag] = useState('🍁 Government Projects');
-    const [selectedEssayTag, setSelectedEssayTag] = useState('Digital Government');
+    const [selectedEssayTag, setSelectedEssayTag] = useState('Digital Governance');
 
     const workTags = ['All', '🍁 Government Projects', 'Other'];
-    const essayTags = ['All', 'Digital Government', 'UX', 'Other'];
+    const essayTags = ['All', 'Digital Governance', 'Other'];
 
     const workPosts = listItems.filter(item => item.frontmatter.type === 'work');
     const essayPosts = listItems.filter(item => item.frontmatter.type === 'essay');

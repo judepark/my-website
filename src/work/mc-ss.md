@@ -3,7 +3,7 @@ title: '🍁 MC Serivce Standards'
 date: '2021-02-28'
 slug: '/work/mc-ss'
 stack: '🍁 Government Projects, Measurement Canada'
-description: 'Digitization project'
+description: 'Digital Transformation project.'
 githubRepo: 'testr'
 type: "work"  
 display: true

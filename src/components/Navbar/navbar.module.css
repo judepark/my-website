@@ -13,7 +13,7 @@ nav a, .navbar a {
     font-weight: 600;
     padding-bottom: 1px;
     letter-spacing: 2px;
-    color: rgba(0, 0, 0, 0.65);
+    color: var(--font-color-heading);
 }
 
 nav a:hover, .navbar a:hover {

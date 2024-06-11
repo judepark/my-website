@@ -27,7 +27,7 @@ export default function essayDetails({ data }) {
 			<div className={style.essayDetail}>
 				<section>
 					<div>
-						<h1 style={{fontWeight:'300'}}>{frontmatter.title}</h1>
+						<h1 style={{fontWeight:'400'}}>{frontmatter.title}</h1>
 						<p><div className={style.technologyStackContainer}>
 							{techStack.map((tech) => {
 								return (

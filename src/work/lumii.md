@@ -3,7 +3,7 @@ title: 'Lumii'
 date: '2018-08-30'
 slug: '/work/lumii'
 stack: 'Sketch, Node.js, Docker, Swift, AWS, Other'
-description: 'AI chatbot to bridge the gap in the future of work for Canadian youth.'
+description: 'AI career chatbot.'
 githubRepo: 'testr'
 type: "work"  
 display: true

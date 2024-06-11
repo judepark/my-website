@@ -2,7 +2,7 @@
 title: 'Miseducation of UX in Public Service'
 date: '2021-03-15'
 slug: '/essay/miseducation-of-ux-in-public-service'
-stack: 'Digital Government, Public Service, UX' 
+stack: 'Digital Governance, Public Service, UX' 
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  

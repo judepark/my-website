@@ -20,6 +20,19 @@ export default function NotFound() {
 						alt="404 Error"
 						style={{ maxWidth: '100%' }}
 					/>
+					
+					<div style={{color:'hsla(0, 0%, 0%, 0.45)', fontSize: '0.7rem', textAlign: 'center'}}>
+						Image by{' '}
+						<a
+							href="https://storyset.com/"
+							target="_blank"
+							rel="noreferrer noopener"
+							style={{ color: 'hsla(0, 0%, 0%, 0.45)' }}
+						>
+							Storyset
+						</a>
+					</div>
+					
 			</div>
 			</section>
 

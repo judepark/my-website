@@ -6,11 +6,15 @@
         margin: 40px auto;
     }
     
-    h1 { 
-        font-size: 3rem;
-    }
     h2 {
-        margin-top: 40px;
+        
+    }
+    h1, h3, h4, h5 { 
+        animation: fadeIn .8s ease-in-out; /* Apply the fadeIn animation */
+    }
+    h6 { 
+        margin-bottom: 4em;
+        animation: fadeIn .8s ease-in-out; /* Apply the fadeIn animation */
     }
 
 
@@ -53,3 +57,16 @@
       }
 
 }
+
+
+/* Define a keyframe animation for fading in */
+@keyframes fadeIn {
+    from {
+      opacity: 0; /* Start with opacity 0 */
+      transform: translateY(-10px); /* Move elements up by 10px */
+    }
+    to {
+      opacity: 1; /* End with opacity 1 */
+      transform: translateY(0); /* Return elements to their original position */
+    }
+  }

@@ -24,7 +24,7 @@ export default function About({ data }) {
                 <div className="column">
 					<h5>INTRO</h5>
 					<p>
-					I work on digital governments.
+					<b>Senior Policy Advisor</b> for the Government of Canada.
 					</p>
 				</div>
 
@@ -38,28 +38,46 @@ export default function About({ data }) {
 
 			<div className="columns">
                 <div className="column">
-					<h5>WORK</h5>
-					<p>
-					As a <b>Senior Policy Advisor</b> for the Government of Canada, I work on initiatives to ensure our policies prioritize the needs of Canadians and those who rely on our services. 
-					</p>
+
+				<h5>EDUCATION</h5>
+
+				<p>
+				<b>M.I. (Master of Information)</b>
+				<br/>
+				Information Systems Design
+				<br/>
+				User Experience Design
+				</p>
+
+				<p>
+				<b>B.A. (Bachelor of Arts)</b>
+				<br/>
+				Anthropology, History, Minor in Linguistics
+				</p>
+
 				</div>
 
 				<div className="column">
-					<h5>EDUCATION</h5>
+					<h5>SPECIALTIES</h5>
 
 					<p>
-					<b>M.I. (Master of Information)</b>
+					<b>Artificial Intelligence in Public Policy</b>
 					<br/>
-					Information Systems Design
-					<br/>
-					User Experience Design
+					Ethical AI regulation and governance.
 					</p>
 
 					<p>
-					<b>B.A. (Bachelor of Arts)</b>
+					<b>Human-Centered Design</b>
 					<br/>
-					Anthropology, History, Minor in Linguistics
+					Proficiency in designing policy-to-services that prioritize user needs.
 					</p>
+
+					<p>
+					<b>Digital Transformation</b>
+					<br/>
+					Leading transformation initiatives to modernize government services.
+					</p>
+
 				</div>
             </div>
 
@@ -82,25 +100,28 @@ export default function About({ data }) {
 					<br/>
 					Data and Information Management
 					</p>
-				*/
 
-				>
-					<h5>SPECIALTIES</h5>
-
-                </div>
-
-				<div className="column"  
-
-				/* Add when you have a link for:
 					<p>
-					CV/Resume ↳
-					<br/>
-					How I Approach Work ↳
+					As a <b>Senior Policy Advisor</b> for the Government of Canada, I work on initiatives to ensure our policies prioritize the needs of Canadians and those who rely on our services. 
 					</p>
+
+					
+					<h5>LINKS</h5>
+					
+					<p>CV/Resume ↳</p>
+					<p>How I Approach Work ↳</p>
+					<p>UX in Gov</p>
+
+					
 				*/
 
 				>
-					<h5>LINKS</h5>
+
+					<h5>OUTRO</h5>
+					
+					<p>
+					I like to design good services for Canadians and beyond. I hope to represent Canada, fostering international relationships that prioritize the well-being and needs of people at the forefront.
+					</p>
 
                 </div>
             </div>
