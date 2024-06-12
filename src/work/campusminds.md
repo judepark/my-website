@@ -2,7 +2,7 @@
 title: 'Campus Minds'
 date: '2017-10-28'
 slug: '/work/campusminds'
-stack: 'User Research, Illustrator, Tableau, Other'
+stack: 'User Research, Illustrator, Tableau, Jude'
 description: 'Research project on mental health.'
 githubRepo: 'testr'
 type: "work"  

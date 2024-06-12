@@ -2,7 +2,7 @@
 title: 'Robarts Kiosks'
 date: '2018-12-18'
 slug: '/work/robartskiosk'
-stack: 'Experience Map, Wireframe, User Interface, Other'
+stack: 'Experience Map, Wireframe, User Interface, Jude'
 description: 'Design project for self-service kiosks.'
 githubRepo: 'testr'
 type: "work"  

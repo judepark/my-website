@@ -2,7 +2,7 @@
 title: 'Lumii'
 date: '2018-08-30'
 slug: '/work/lumii'
-stack: 'Sketch, Node.js, Docker, Swift, AWS, Other'
+stack: 'Sketch, Node.js, Docker, Swift, AWS, Jude'
 description: 'AI career chatbot.'
 githubRepo: 'testr'
 type: "work"  

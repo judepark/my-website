@@ -120,10 +120,16 @@ export default function About({ data }) {
 					<h5>OUTRO</h5>
 					
 					<p>
-					I like to design good services for Canadians and beyond. I hope to represent Canada, fostering international relationships that prioritize the well-being and needs of people at the forefront.
+					I like to design good services for Canadians and beyond. 
+					I hope to represent Canada and foster international relationships 
+					that prioritize the well-being of people.
 					</p>
 
                 </div>
+
+
+
+				
             </div>
 
 		</Layout>
