@@ -49,6 +49,8 @@ export default function About({ data }) {
 				User Experience Design
 				</p>
 
+				<br/>
+
 				<p>
 				<b>B.A. (Bachelor of Arts)</b>
 				<br/>
@@ -66,11 +68,15 @@ export default function About({ data }) {
 					Ethical AI regulation and governance.
 					</p>
 
+					<br/>
+
 					<p>
 					<b>Human-Centered Design</b>
 					<br/>
 					Proficiency in designing policy-to-services that prioritize user needs.
 					</p>
+
+					<br/>
 
 					<p>
 					<b>Digital Transformation</b>
@@ -112,11 +118,6 @@ export default function About({ data }) {
 					<p>How I Approach Work ↳</p>
 					<p>UX in Gov</p>
 
-					
-				*/
-
-				>
-
 					<h5>OUTRO</h5>
 					
 					<p>
@@ -125,6 +126,19 @@ export default function About({ data }) {
 					that prioritize the well-being of people.
 					</p>
 
+					
+				*/
+
+				>
+
+					<h5>LINKS</h5>
+
+					<p>
+					My Book: <a href="https://judepark.com/archive" rel="noreferrer noopener" target="_blank"><b style={{ color: 'hsla(0, 0%, 0%, 0.80)' }}>UX in Gov</b></a>
+					<br/>
+					My <a href="https://judepark.com/archive" rel="noreferrer noopener"><b style={{ color: 'hsla(0, 0%, 0%, 0.80)' }}>Archive</b></a>
+					</p>
+					
                 </div>
 
 

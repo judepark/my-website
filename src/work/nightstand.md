@@ -2,7 +2,7 @@
 title: 'Nightstand'
 date: '2015-03-04'
 slug: '/work/nightstand'
-stack: 'Radio Show, Podcast, Other, Jude'
+stack: 'Other, Jude'
 description: 'Radio show at Trent Radio at 92.7 FM'
 githubRepo: 'testr'
 type: "work"  

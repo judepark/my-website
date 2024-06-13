@@ -2,7 +2,7 @@
 title: 'Hey Jude Comic'
 date: '2009'
 slug: '/work/heyjudecomic'
-stack: 'Creative Content, Sketch, Journal, Other'
+stack: 'Other, Jude'
 description: 'Webcomic series.'
 githubRepo: 'testr'
 type: "work"  

@@ -24,6 +24,23 @@ section {
         margin-top: 2rem;
         padding: 0;
     }
+
+    /* only for h5 elements in archive page */
+    h5 {
+        animation: fadeIn .8s ease-in-out; /* Apply the fadeIn animation */
+    }
     
 }
 
+/* Define a keyframe animation for fading in */
+@keyframes fadeIn {
+    from {
+      opacity: 0; /* Start with opacity 0 */
+      transform: translateY(-10px); /* Move elements up by 10px */
+    }
+    to {
+      opacity: 1; /* End with opacity 1 */
+      transform: translateY(0); /* Return elements to their original position */
+    }
+  }
+  

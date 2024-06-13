@@ -2,7 +2,7 @@
 title: 'Lumii'
 date: '2018-08-30'
 slug: '/work/lumii'
-stack: 'Sketch, Node.js, Docker, Swift, AWS, Jude'
+stack: 'Other, Jude'
 description: 'AI career chatbot.'
 githubRepo: 'testr'
 type: "work"  
@@ -36,7 +36,7 @@ Lumii is a chatbot designed to bridge the gap between youth and their future job
 <br/>
 <br/>
 
-Future Launch is RBC’s largest commitment to a social issue, with half a billion dollars aimed at helping Canadian youth aged 15-29 find employment and boost the economy.
+Future Launch is RBC’s largest commitment to a social issue, with half a billion dollars aimed at helping Canadian youth aged 15-29 find employment and boost the economy. Build with Sketch, Node.js, Docker, Swift, AWS.
 
 ![Environmental Scan](https://64.media.tumblr.com/1c72ce7717c07aa2c6a17cdffe0e965e/b26eab12846b1c2a-29/s2048x3072/7072da67fea16c70c30b3729dd4680b7770f87c1.pnj)
 <br/>

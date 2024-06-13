@@ -264,6 +264,23 @@ img {
     border-left: 1px solid hsla(0, 0%, 0%, 0.2);
     padding-left: 20px;
     box-sizing: border-box; /* Ensures padding and border are included in the element's total width and height */
+
+    p {
+        margin: 0;
+    }
+    /* For About me <a> links */
+    a {
+        display: inline-block; 
+        transition: transform .3s ease-in-out;
+    }
+
+    a:hover {
+        transform: translateY(-5px);
+    }
+
+    a:not(:hover) {
+        transition: none;    
+    }
 }
 
 /* Adjustments for smaller screens */
