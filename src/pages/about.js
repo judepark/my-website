@@ -31,7 +31,7 @@ export default function About({ data }) {
 				<div className="column">
 					<h5>LANGUAGES</h5>
 					<p>
-					Korean, English
+					Korean, English.
 					</p>
                 </div>
             </div>
@@ -44,9 +44,9 @@ export default function About({ data }) {
 				<p>
 				<b>M.I. (Master of Information)</b>
 				<br/>
-				Information Systems Design
+				Information Systems Design.
 				<br/>
-				User Experience Design
+				User Experience Design.
 				</p>
 
 				<br/>
@@ -54,7 +54,7 @@ export default function About({ data }) {
 				<p>
 				<b>B.A. (Bachelor of Arts)</b>
 				<br/>
-				Anthropology, History, Minor in Linguistics
+				Anthropology, History, Minor in Linguistics.
 				</p>
 
 				</div>
@@ -131,12 +131,10 @@ export default function About({ data }) {
 
 				>
 
-					<h5>LINKS</h5>
+					<h5>LINK</h5>
 
 					<p>
-					My Book: <a href="https://judepark.com/archive" rel="noreferrer noopener" target="_blank"><b style={{ color: 'hsla(0, 0%, 0%, 0.80)' }}>UX in Gov</b></a>
-					<br/>
-					My <a href="https://judepark.com/archive" rel="noreferrer noopener"><b style={{ color: 'hsla(0, 0%, 0%, 0.80)' }}>Archive</b></a>
+					<a href="https://judepark.com/archive" rel="noreferrer noopener"><b style={{ color: 'hsla(0, 0%, 0%, 0.80)' }}>More</b></a> about me.
 					</p>
 					
                 </div>

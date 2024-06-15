@@ -283,6 +283,24 @@ img {
     }
 }
 
+/* For Archive lists */ 
+
+.archive {
+    display: flex; 
+    margin: 0 0 1rem 0;
+}
+
+.alphabet {
+    margin-right: 20px;
+    margin-bottom: 18px;
+    align-self: center;
+}
+
+.archivetext {
+    line-height: 1.6em;
+    margin-bottom: 0;
+}
+
 /* Adjustments for smaller screens */
 @media screen and (max-width: 480px) {
     .column {
