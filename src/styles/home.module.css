@@ -9,6 +9,18 @@
         line-height: 1.7;
     }
 
+    a {
+        display: inline-block; 
+        transition: transform .3s ease-in-out;
+    }
+
+    a:hover {
+        transform: translateY(-5px);
+    }
+
+    a:not(:hover) {
+        transition: none;    
+    }
 
 }
 

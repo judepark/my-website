@@ -2,7 +2,7 @@
 title: 'A Designerˈs Code of Ethics'
 date: '2019-11-30'
 slug: '/essay/designer-code-of-ethics'
-stack: 'UX, Manifesto, Design'
+stack: 'Digital Governance, Manifesto, Design'
 description: 'blank'
 githubRepo: 'blank'
 type: "essay"  

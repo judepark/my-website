@@ -1,7 +1,7 @@
 ---
-title: 'User Pain Points Cards'
+title: 'Core Values Cards'
 date: '2009-12-29'
-slug: '/work/userpainpointscards'
+slug: '/work/corevaluescards'
 stack: 'Other, Jude'
 description: 'Deck of cards to identify user pain points'
 githubRepo: 'testr'

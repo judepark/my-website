@@ -1,7 +1,7 @@
 ---
-title: 'Core Values Cards'
+title: 'UX Pain Points Cards'
 date: '2009-12-29'
-slug: '/work/corevaluescard'
+slug: '/work/uxpainpointscards'
 stack: 'Other, Jude'
 description: 'Deck of cards to help you find your core values'
 githubRepo: 'testr'

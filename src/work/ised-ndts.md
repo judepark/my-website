@@ -3,7 +3,7 @@ title: '🍁 National Digital Trust Service'
 date: '2021-10-19'
 slug: '/work/ised-ndts'
 stack: '🍁 Government Projects, Innovation Science and Economic Canada'
-description: 'Introducing Canada to digital credentials.'
+description: 'Launch the Canadian digital credentials technology.'
 githubRepo: 'testr'
 type: "work"  
 display: true

@@ -288,12 +288,27 @@ img {
 .archive {
     display: flex; 
     margin: 0 0 1rem 0;
+
+     /* For Archive <a> links */
+    a {
+        display: inline-block; 
+        transition: transform .3s ease-in-out;
+    }
+    
+    a:hover {
+         transform: translateY(-5px);
+    }
+    
+    a:not(:hover) {
+        transition: none;    
+    }
 }
 
 .alphabet {
     margin-right: 20px;
     margin-bottom: 18px;
     align-self: center;
+    animation: fadeIn .8s ease-in-out; /* Apply the fadeIn animation */
 }
 
 .archivetext {

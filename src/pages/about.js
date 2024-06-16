@@ -31,7 +31,7 @@ export default function About({ data }) {
 				<div className="column">
 					<h5>LANGUAGES</h5>
 					<p>
-					Korean, English.
+					Korean, English
 					</p>
                 </div>
             </div>
@@ -44,9 +44,9 @@ export default function About({ data }) {
 				<p>
 				<b>M.I. (Master of Information)</b>
 				<br/>
-				Information Systems Design.
+				Information Systems Design
 				<br/>
-				User Experience Design.
+				User Experience Design
 				</p>
 
 				<br/>
@@ -126,16 +126,19 @@ export default function About({ data }) {
 					that prioritize the well-being of people.
 					</p>
 
-					
-				*/
-
-				>
 
 					<h5>LINK</h5>
 
 					<p>
 					<a href="https://judepark.com/archive" rel="noreferrer noopener"><b style={{ color: 'hsla(0, 0%, 0%, 0.80)' }}>More</b></a> about me.
 					</p>
+
+					
+				*/
+
+				>
+
+
 					
                 </div>
 

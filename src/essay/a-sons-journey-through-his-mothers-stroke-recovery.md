@@ -2,12 +2,17 @@
 title: 'A Sonˈs Journey Through His Mother’s Stroke Recovery'
 date: '2018-07-11'
 slug: '/essay/a-sons-journey-through-his-mothers-stroke-recovery'
-stack: 'Other'
+stack: 'Other, Personal Story, Family, Medical Journey, Caregiving'
 description: 'test test.'
 githubRepo: 'test'
 type: "essay"  
 display: true
 ---
+
+##### NOTE: 
+This post was originally published on Medium and reflects my personal experience as a family member taking care of my mother who suffered a severe subarachnoid hemorrhage in 2018. I share this story in the hope of offering comfort to others facing similar challenges. My mother surviveed and continues to be with us today.
+
+--
 
 Today marks day 30 after my mother collapsed from a subarachnoid hemorrage (SAH).
 
@@ -84,45 +89,41 @@ Permanent disabilities are expected. The danger of rebleeding for SAH patients d
 
 If you need to reach out to someone about the experiences of SAH condition from the perspective of a family member, feel free to reach out to me.
 
-
 One of my goals for writing this was to provide a voice of comfort — something that no medical professional gave us during our difficult time. Take it day by day, moment by moment.
 
 <br/> 
 
-### Useful Resources
-- **Types of Strokes**: https://www.strokeassociation.org/STROKEORG/AboutStroke/TypesofStroke/Types-of-Stroke_UCM_308531_SubHomePage.jsp#
-- **Predictive Factors for Rebleeding SAH**: https://www.ahajournals.org/doi/10.1161/STROKEAHA.115.010037
-- **Quick Stats on SAH**: https://www.mayfieldclinic.com/PE-SAH.HTM
-- **Types of Cerebral Aneurysms**: https://www.joeniekrofoundation.com/understanding/types-of-cerebral-aneurysms/
-- **Video — What is Hemorrhagic Stroke?**: https://www.youtube.com/watch?v=tPly_gJsTHs&t=25s
-- **Image of Brain Regions and Functionalities**: http://a.advancedbrain.com/news/brain_areas.jsp
-- **Phonetic Chart and Breakdown of Speech Capabilities**: (http://www.linguamanca.net/linguistics/linguistics_2/linguistics2_page1/index.htm)
-- **Medical Terminologies on SAH**:
+#### Useful Resources
+
+- [**Types of Strokes**](https://www.stroke.org/en/about-stroke/types-of-stroke)
+- [**Predictive Factors for Rebleeding SAH**](https://www.ahajournals.org/doi/10.1161/STROKEAHA.115.010037)
+- [**Quick Stats on SAH**](https://www.mayfieldclinic.com/PE-SAH.HTM)
+- [**Types of Cerebral Aneurysms**](https://www.joeniekrofoundation.com/understanding/types-of-cerebral-aneurysms/)
+- [**Video — What is Hemorrhagic Stroke?**](https://www.youtube.com/watch?v=tPly_gJsTHs&t=25s)
+- [**Image of Brain Regions and Functionalities**](http://a.advancedbrain.com/news/brain_areas.jsp)
+- [**Phonetic Chart and Breakdown of Speech Capabilities**](http://www.linguamanca.net/linguistics/linguistics_2/linguistics2_page1/index.htm)
+
+<br/> 
+
+#### Medical Terminologies on SAH
+
 - **Subarachnoid Hemorrhage (SAH)**: a life-threatening condition where bleeding occurs in the space between the brain and the cranium.
-
-</br>
-
-### Useful Terminologies
-
 - **Intracranial Pressure (ICP)**: the space between the brain and the cranium is filled with cerebrospinal fluid (CSF), a clear fluid that act as a cushion for the brain. When bleeding occurs it can increase the pressure causing the brain to swell and become damaged.
 - **Hydrocephalus**: a dangerous condition where there is an accumulation of CSF within the brain, which may cause brain damage. Should look out for scans of the brain, droopiness, sleepiness and lack of urinary control.
 - **Vasospasm**: a dangerous condition where the arteries in the brain constrict uncontrollably due to the contact of brain matter and exposed blood, leading to further brain damage. SAH patients should routinely receive specific medications to prevent this condition from occurring in the first months.
 - **Tachycardia**: More widely known as increased heart rate, it is common among critical patients in the ICU or NCU. As the patient stabilizes it will likely disappear.
 - **Thunderclap Headache**: Individuals who experience SAH often describe the onset with an accompanied headache that is widely expressed as the “worst headache of all time” or “thunderclap headache”. Other signs and symptoms include difficulty and pain in moving the neck, speech difficulty, facial droop and/or limb weakness.
 - **Stroke vs. Aneurysm**: Although different under medical terms, these are interchangeable terms that I noticed even doctors used in combination. A stroke is condition where an artery may be blocked or rupture requiring immediate medical attention. A brain aneurysm is a condition where an artery in the brain presents localized malformation (ie. enlargement or weakening of artery wall). Both conditions when ruptured require immediate medical attention.
-- **Types of Aneurysms**⁴: A brain aneurysm could protrude like a tiny balloon (Saccular), or the entire artery wall may become enlarge (Fusiform), or the artery wall may weaken over time leading to a “dissection” within the artery (Pseudoaneursym). Any one of these could lead to SAH.
+- **Types of Aneurysms**: A brain aneurysm could protrude like a tiny balloon (Saccular), or the entire artery wall may become enlarge (Fusiform), or the artery wall may weaken over time leading to a “dissection” within the artery (Pseudoaneursym). Any one of these could lead to SAH.
 
+<br/> 
 
-Image by Stanford Health Care (https://stanfordhealthcare.org/medical-conditions/blood-heart-circulation/thoracic-aortic-aneurysm/types.html)
+#### Medical Treatments of SAH:
 
-- My mother suffered a rare cerebral aneurysm dissection. My mother was healthy without any prior medical disorders.
-
-### Medical treatments of SAH:
 - **Computerized Tomography (CT)**: non-invasive medical imaging technique to visualize the brain. CT will present regions of bleeding in the brain.
 - **Magnetic Resonance Imaging (MRI)**: non-invasive medical imaging technique to visualize the brain. MRI will present regions of the brain affected and loss of brain cells.
 - **Angiography**: a medical imaging technique used to visualize the blood vessels in the body, where ink-like substance is injected through the arteries. The site of injection is usually at the femoral artery in the thigh that travels its way into the brain.
 - **Ultrasound**: non-invasive medical imaging technique to detect possible hydrocephalus.
 - **Stent Operation**: a medical operation where a tiny metal or plastic tube is inserted in a damaged artery passageway to allow blood flow.
-My mother’s affected artery was over 15mm long, requiring stent operation. A tube was inserted inside the artery to act as the wall of what was a ruptured or weakened artery. It should be noted the doctors themselves will likely not know which reparative actions to take until they are in surgery and reach the site of concern.
 - **Endovascular Coiling**: a medical operation to fill an aneurysm with flexible platinum wires to block blood flow to protruding vessel.
 - **Clipping**: an invasive medical operation to isolate and block off blood flow circulation to the affected artery. May or may not lead to permanent disability.
