@@ -3,7 +3,7 @@ title: 'UX in Gov'
 date: '2024-05-10'
 slug: '/work/ux-in-gov'
 stack: 'Other, Book'
-description: 'The role of User Experience in Public Service.'
+description: 'How to successfully implement User Experience teams in Public Service.'
 githubRepo: 'testr'
 type: "work"  
 display: true

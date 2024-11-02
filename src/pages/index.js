@@ -51,7 +51,19 @@ export default function Home({ data }) {
 								className="social-icon"
 								src="/icons8-github.svg"
 								alt="icon-github"
-								style={{ width: '30px', height: '30px' }}
+								style={{ margin: '0 4px -0.3px 0px', width: '30px', height: '30px' }}
+							/>
+						</a>
+						<a
+							href="https://slides.com/judepark"
+							target="_blank"
+							rel="noreferrer noopener"
+						>
+							<img
+								className="social-icon"
+								src="/abc.png"
+								alt="icon-slide"
+								style={{ margin: '0 0px -0.1px 0px', width: '30px', height: '30px' }}
 							/>
 						</a>
 					</p>

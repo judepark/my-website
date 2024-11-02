@@ -73,7 +73,7 @@ export default function About({ data }) {
 					<p>
 					<b>Human-Centered Design</b>
 					<br/>
-					Proficiency in designing policy-to-services that prioritize user needs.
+					Research and design policy-to-services that prioritize user needs.
 					</p>
 
 					<br/>

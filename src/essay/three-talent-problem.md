@@ -1,5 +1,5 @@
 ---
-title: 'Three Talent Problem in Digital Gov'
+title: 'The Three Talent Problems in Digital Gov'
 date: '2021-03-15'
 slug: '/essay/three-talent-problem'
 stack: 'Digital Governance, Public Service, UX'
